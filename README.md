@@ -1,3 +1,6 @@
 # imdb_top_250
+## scraping part:
 crawl.py : webscraping using beautifulsoup library
-db.py : creating a data base for it (will be uploaded soon)
+extracted files: movie_ids.csv , person_ids.csv , 250_top_movies.csv
+## database part:
+(will be uploaded soon)
